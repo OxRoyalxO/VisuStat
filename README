@@ -1,0 +1,5 @@
+This is the README file for the front end code of VisuStat.
+
+There is not much currently.  This is a project being developed by a small team to visualize statistics.
+
+It is using Ember.js for an MVC framework, and bootstrap to style the page.  All other code is currently under construction. 
